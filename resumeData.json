@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Victor Gwee",
+    "occupation": "Aspiring Software Engineer",
+    "description": "I've just started out but I'll pick up things as I go!",
+    "image": "profilepic.jpg",
+    "bio": "Just making my way up the technology stack -- from electronics to software",
+    "contactmessage": "Got a cool idea, or just wanna chat? Send me a message!",
+    "email": "vicgdm@gmail.com",
+    "phone": "8885 5597",
+    "address": {
+      "street": "",
+      "city": "Singapore",
+      "state": "",
+      "zip": "130019"
+    },
+    "website": "vicgwee.github.io/resume",
+    "resumedownload": "vicgwee.github.io/resume",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vgwee",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vicgwee",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Nanyang Technological University",
+        "degree": "Bachelor of Engineering Science (EEE); Masters of Science (Technology Management)",
+        "graduated": "April 2018 - Dec 2022 (Expected)",
+        "description": "Relevant Courses: Data Structures & Algorithms, Networking, Embedded Systems, Biz Analytics & Applied ML"
+      }
+    ],
+    "work": [
+      {
+        "company": "Whizz Mobility",
+        "title": "Lead Hardware Engineer",
+        "years": "Feb 2019 - Present",
+        "description": "We built cool robots that delivered 11k food orders around campus!"
+      },
+      {
+        "company": "Hewlett Packard Enterprise",
+        "title": "Electrical Engineering Hardware Intern",
+        "years": "May - Aug 2020",
+        "description": "Wrote Python scripts to test optical transceivers (also known as cool stuff). Then made more python scripts to put the test results into a nice Excel sheet."
+      },
+      {
+        "company": "Data Science & Artificial Intelligence Research (DSAIR) Centre",
+        "title": "Intern",
+        "years": "Jun - Aug 2019",
+        "description": "Learnt more about sensor fusion in autonomous vehicles and developed algorithms in C++"
+      }
+    ],
+    "skillmessage": "Some of the things I've picked up over the years!",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sensorised Toys",
+        "category": "My Final Year Project",
+        "image": "babytoy.jpg",
+        "url": "https://github.com/NTU-LEAP-1kD/instrumented-toy-firmware"
+      },
+      {
+        "title": "AquaBot",
+        "category": "Telegram Bot + Aquarium = Ez Home Automation",
+        "image": "aquabot.jpg",
+        "url": "https://github.com/vicgwee/aquabot"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nothing to say here, busy hustling!",
+        "user": "Victor"
+      }
+    ]
+  }
+}
